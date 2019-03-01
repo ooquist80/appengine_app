@@ -1,0 +1,6 @@
+service: hej
+runtime: custom
+env: flex
+network:
+  name: default
+  subnetwork_name: ollenet
